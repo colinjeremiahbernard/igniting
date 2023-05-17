@@ -6,7 +6,6 @@
     "prettier/prettier": [
       "error",
       {
-        "endOfLine":"crlf",
         "validateLineBreaks":"LF"
       }
     ]
